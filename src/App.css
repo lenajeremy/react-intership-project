@@ -1,0 +1,13 @@
+:root {
+  --primary-color: rgb(190, 10, 94);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.headings {
+  background: rgb(190, 190, 190);
+  font-weight: bold;
+  padding: 10px 0px 5px 8px;
+}
